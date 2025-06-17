@@ -7,7 +7,7 @@
     "test:smoke": "npx cucumber-js --tags \"@Smoke\"",
     "test:regression": "npx cucumber-js --tags \"@Regression\""
   },
-  "author": "",
+  "author": "", 
   "license": "ISC",
   "description": "",
   "devDependencies": {
